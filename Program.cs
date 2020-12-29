@@ -8,6 +8,8 @@ namespace git_practice
         {
             //rebase again
             //without rebase
+            //without rebase
+            //fix something
             Console.WriteLine("Hello World!");
         }
     }
