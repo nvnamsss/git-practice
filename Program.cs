@@ -9,7 +9,7 @@ namespace git_practice
             //rebase again
             //without rebase
             //without rebase
-            //fix something
+            //fix something go
             Console.WriteLine("Hello World!");
         }
     }
